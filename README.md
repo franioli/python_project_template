@@ -14,6 +14,17 @@ Modify the following files to fit your project:
 - docs/index.md: documentation homepage
 - src/package_name: source code directory
 
+For development, install the dev-dependencies by running:
+
+```bash
+pip install -r requirements-dev.txt
+```
+
+## Setting up documentation
+
+From GitHub, go to the settings of your repository and enable GitHub Pages by chosing `Github Actions` as the source.
+The documetation will be automatically build in your project page ([https://username.github.io/project_name/]) by the `deploy-docs.yml` GitHub Action when pusing a new commit (or accepting a Pull Request) to the main branch.
+
 ## Package installation
 
 Clone the repository and go to the project directory
