@@ -1,6 +1,6 @@
 # Empty Python Project template
 
-This template is largely inspired from the Python Project Template made by the Scientific Software Center from Heidelberg University ([https://github.com/ssciwr/python-project-template/tree/main/src](https://github.com/ssciwr/python-project-template/tree/main/src))
+This template is largely inspired from the Python Project Template made by the Scientific Software Center from Heidelberg University ([https://github.com/ssciwr/python-project-template](https://github.com/ssciwr/python-project-template))
 
 ## How to use this template
 
