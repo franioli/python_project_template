@@ -1,7 +1,5 @@
 # Empty Python Project template
 
-This template is largely inspired from the Python Project Template made by the Scientific Software Center from Heidelberg University ([https://github.com/ssciwr/python-project-template](https://github.com/ssciwr/python-project-template))
-
 ## How to use this template
 
 Create a new GitHub repository using this template and start coding!
@@ -47,3 +45,10 @@ Install `package_name` package and its dependancies by using pip
 ```bash
 pip install -e .
 ```
+
+## Credits
+
+This template is largely inspired from the Python Project Template made by the Scientific Software Center from Heidelberg University ([https://github.com/ssciwr/python-project-template](https://github.com/ssciwr/python-project-template))
+
+Some information on how to setup a python project with `pyproject.toml` file, build a package and publish it to pypi are taken from
+[https://realpython.com/pypi-publish-python-package/](https://realpython.com/pypi-publish-python-package/)
